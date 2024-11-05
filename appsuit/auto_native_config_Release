@@ -106,7 +106,7 @@
 				"display_name":"momo secure key",
 				"description":"momo secure key",
 				"component_type":"string",
-				"value":"2XyQO2uf0HcRjsj7",
+				"value":"W8AmFjUlFamx0x50",
 				"required":true
 			},
 			{
@@ -114,7 +114,7 @@
 				"display_name":"momo secure iv",
 				"description":"momo secure iv",
 				"component_type":"string",
-				"value":"nwGFUMWQDTOuwMod",
+				"value":"hywiy120vnbw2KWw",
 				"required":true
 			},
 			{
@@ -162,7 +162,7 @@
 				"display_name":"triggered",
 				"description":"if use secure handler, triggered call secure handler method",
 				"component_type":"string",
-				"value":"a/a/STLcn",
+				"value":"a/a/STLdo",
 				"required":true
 			},
 			{
