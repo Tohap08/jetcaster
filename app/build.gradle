@@ -145,7 +145,7 @@
             pw 'stealien'
 
     //      options = ['check_root', 'detect_magisk', 'check_integrity', 'check_emul', 'check_debugging', 'prevent_debugging', 'self_protect', 'encrypt_so', 'encrypt_flutter', 'prevent_decompile']
-            options = ['check_emul']
+            options = ['check_root']
 
             cloudBuild true
             enableServerBuild true
