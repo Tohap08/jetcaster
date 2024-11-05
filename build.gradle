@@ -14,6 +14,9 @@
  * limitations under the License.
  */
 
+//Jetcaster SOLVED from crash/terminated before
+//Replace new Jetcaster from issues/bugs before
+
 import com.example.jetcaster.buildsrc.Libs
 import com.example.jetcaster.buildsrc.Versions
 
