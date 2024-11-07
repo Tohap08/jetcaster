@@ -106,7 +106,7 @@
 				"display_name":"momo secure key",
 				"description":"momo secure key",
 				"component_type":"string",
-				"value":"RQus7Cig0GliQted",
+				"value":"t31m6hvjbf1BHE0g",
 				"required":true
 			},
 			{
@@ -114,7 +114,7 @@
 				"display_name":"momo secure iv",
 				"description":"momo secure iv",
 				"component_type":"string",
-				"value":"HVTxogkya5JIzFno",
+				"value":"bPBAfzbkzNpddby3",
 				"required":true
 			},
 			{
