@@ -833,4 +833,4 @@ public void *(android.view.View);
 -radar_url https://radar.appsu.it/
 
 # appsuit rule end: E:\Program-DEV\Steal Alien Indonesia\Projects\Jetcaster AppSuit\Jetcaster AppSuit\appsuit\rule.pro
-# Fri Nov 08 15:49:54 WIB 2024
+# Wed Nov 13 10:13:47 WIB 2024
